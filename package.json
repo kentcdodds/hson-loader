@@ -16,7 +16,7 @@
   "main": "index.js",
   "name": "hson-loader",
   "peerDependencies": {
-    "hanson": "*"
+    "hanson": "1.1.1"
   },
   "repository": {
     "type": "git",
